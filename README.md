@@ -5,7 +5,7 @@ React Native Developer
 ----------------------
 
 * 🌍  I'm based in Brazil
-* 🖥️  See my portfolio at [Site pessoal](http://xdiegors.github.io)
+* 🖥️  See my portfolio at [Site pessoal](https://xdiegors.pages.dev/)
 
 ### Skills
 
