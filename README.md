@@ -5,7 +5,6 @@ React Native Developer
 ----------------------
 
 * 🌍  I'm based in Brazil
-* 🖥️  See my portfolio at [Site pessoal](https://xdiegors.pages.dev/)
 
 ### Skills
 
@@ -20,5 +19,4 @@ React Native Developer
 ### Socials
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
