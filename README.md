@@ -1,13 +1,8 @@
-Hi, my name is Diego 👋 
+Hi, I'm Diego 👋 
 ======================
-
-React Native Developer
-----------------------
-
-* 🌍  I'm based in Brazil
+I'm a software developer specializing in mobile application development with React Native.
 
 ### Skills
-
 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
