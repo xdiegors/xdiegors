@@ -1,6 +1,6 @@
 Hi, I'm Diego 👋 
 ======================
-I'm a software developer specializing in mobile application development with React Native.
+I'm a software developer specializing in mobile application development.
 
 ### Skills
 
