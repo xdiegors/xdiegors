@@ -1,6 +1,6 @@
-Hi, I'm Diego 👋 
+Hi, I'm Diego
 ======================
-I'm a .NET developer.
+I'm a .NET developer focused on web development with ASP.NET.
 
 ### Skills
 
