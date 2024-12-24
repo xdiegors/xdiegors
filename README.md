@@ -16,4 +16,9 @@ I'm a .NET developer focused on web development with ASP.NET.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Oi mundo](https://diegors.net/blog/oi-mundo/)
+- [Olá mundo](https://diegors.net/blog/ola-mundo/)
+- [Third post](https://diegors.net/blog/third-post/)
+- [Second post](https://diegors.net/blog/second-post/)
+- [First post](https://diegors.net/blog/first-post/)
 <!-- BLOG-POST-LIST:END -->
